@@ -1,4 +1,4 @@
-<p><img src="" alt=""></p>
+<p><img src="https://github.com/Addie-Pi/Addie-Pi/blob/main/Greeting_new.gif" alt=""></p>
 
 <!--
 **Addie-Pi/Addie-Pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
